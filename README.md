@@ -7,8 +7,8 @@ Please note that I do not finish this project all by myself, it is a group work 
 In order to test the script, it is necessary to download the following tools and libraries.
 Steps to install everything:
 1. Download python 3.6.1
-2. Pip install Sklearn
-3. Pip install wheel
+2. pip install Sklearn
+3. pip install wheel
 4. Download Visual Studio 2015 Build tools
 5. Download .whl files (numpy-1.13.1+mkl-cp36-cp36m-win_amd64)
 6. Install with pip from local directory
